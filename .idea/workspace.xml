@@ -369,11 +369,9 @@
       <updated>1526681989924</updated>
       <workItem from="1526681991491" duration="4030000" />
       <workItem from="1526686212539" duration="1156000" />
-<<<<<<< HEAD
-      <workItem from="1526687379078" duration="1597000" />
-=======
-      <workItem from="1526687379078" duration="2140000" />
->>>>>>> fix changes
+      <workItem from="1526687379078" duration="2608000" />
+      <workItem from="1526708702934" duration="772000" />
+      <workItem from="1526709600290" duration="4493000" />
     </task>
     <servers />
   </component>
@@ -786,17 +784,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="292">
-          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-          <folding />
-=======
-        <state relative-caret-position="411">
-          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1526689282831" expanded="true" signature="1002:1004" ph="{...}" />
           </folding>
->>>>>>> fix changes
         </state>
       </provider>
     </entry>
