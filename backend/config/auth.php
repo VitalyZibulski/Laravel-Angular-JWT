@@ -42,11 +42,7 @@ return [
         ],
 
         'api' => [
-<<<<<<< HEAD
-            'driver' => 'token',
-=======
             'driver' => 'jwt',
->>>>>>> add components and JWT
             'provider' => 'users',
         ],
     ],
