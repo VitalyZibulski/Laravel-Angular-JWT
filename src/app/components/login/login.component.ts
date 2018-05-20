@@ -16,7 +16,7 @@ export class LoginComponent implements OnInit {
 
     public error = null;
 
-    constructor(private Jarwis:JarwisServicee) {
+    constructor(private Jarwis:JarwisServiceee) {
     }
 
     onSubmit() {
