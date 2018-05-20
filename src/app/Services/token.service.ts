@@ -13,7 +13,6 @@ export class TokenService {
 
   handle(token) {
     this.set(token);
-    console.log(this.isValid());
   }
 
   set(token) {
@@ -34,7 +33,7 @@ export class TokenService {
       if(token){
         const payload = this.payload(token);
         if(payload){
-          return Object.values(this.iss).indexOf(payload.iss)> -1 ? true : false;
+          return Object.values(this.iss).indexOf(payload.iss) > -1 ? true : false;
         }
       }
       return false;

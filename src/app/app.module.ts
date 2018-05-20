@@ -11,6 +11,8 @@ import { ResponseResetComponent } from './components/password/response-reset/res
 import { AppRoutingModule } from './app-routing.module';
 import {HttpClientModule} from '@angular/common/http';
 import {JarwisService} from './Services/jarwis.service';
+import {TokenService} from './Services/token.service';
+import {AuthService} from './Services/auth.service';
 
 @NgModule({
   declarations: [
